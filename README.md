@@ -1,6 +1,6 @@
 # Automation tests for a login screen
-###Programming: Python
-###Test Framework: Behave
+### Programming: Python
+### Test Framework: Behave
 
 ## Setup
 
